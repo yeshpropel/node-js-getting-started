@@ -1,9 +1,9 @@
 {
   "name": "node-js-getting-started",
   "version": "0.3.0",
-  "main": "Server/App.js",
+  "main": "./Server/App.js",
   "scripts": {
-    "start": "node Server/App.js",
+    "start": "node ./Server/App.js",
     "test": "node test.js"
   },
   "dependencies": {
